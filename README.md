@@ -1,10 +1,5 @@
 # 🤖 Autonomous Fire Fighting Robot
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/keella-siri-chandana-lakshmi-priyanka-166654259/">
-    <img src="https://img.shields.io/badge/LinkedIn-K Siri Chandana-blue?logo=linkedin" />
-  </a>
-</p>
 
 ## 📌 Project Overview
 An autonomous fire fighting robot built using Arduino that 
