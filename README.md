@@ -89,16 +89,16 @@ Power the robot and test
 ## 📷 Project Screenshots
 
 ### 🤖 Robot Setup
-*(Add your robot photo here)*
+<img width="465" height="667" alt="Screenshot 2025-01-28 181237" src="https://github.com/user-attachments/assets/85fb606e-485c-4f6c-a92a-894a6ee8092b" />
+
 
 ### 🔌 Circuit Diagram
-*(Add your circuit diagram here)*
+<img width="1211" height="685" alt="Screenshot 2025-01-29 205436" src="https://github.com/user-attachments/assets/c9a8b216-6cf6-4835-823a-1a19f41d9a84" />
 
-### 🔥 Fire Detection Working
-*(Add fire detection photo here)*
 
 ### 📱 SMS Alert
-*(Add SMS screenshot here)*
+<img width="411" height="243" alt="image" src="https://github.com/user-attachments/assets/e09f9544-ca83-4f89-b58c-edbfee012350" />
+
 
 ---
 
@@ -107,11 +107,10 @@ Power the robot and test
 | Field | Details |
 |---|---|
 | **Name** | K Siri Chandana Lakshmi Priyanka |
-| **Degree** | B.Tech / B.E. |
+| **Degree** | B.Tech |
 | **College** | BVRIT Hyderabad College of Engineering for Women |
 | **Email** | keellasirichandana03@gmail.com |
 | **LinkedIn** | [linkedin.com/in/keella-siri-chandana](https://www.linkedin.com/in/keella-siri-chandana-lakshmi-priyanka-166654259/) |
-| **GitHub** | [github.com/keellasirichandana03-hash](https://github.com/keellasirichandana03-hash) |
 
 ---
 
